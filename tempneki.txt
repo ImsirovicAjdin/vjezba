@@ -1,0 +1,9 @@
+    1  touch index.html
+    2  dir .
+    3  history
+    4  history > less
+    5  history less
+    6  history cat
+    7  cat history
+    8  history | less
+    9  history | less > tempneki.txt
